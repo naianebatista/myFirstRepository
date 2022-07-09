@@ -1,0 +1,2 @@
+Ths is file3.txt
+New line addes in GitHub
