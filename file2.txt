@@ -1,2 +1,3 @@
 this is file2.txt
-Tis line was add in our local git repo 
+This line was add in our local git repo 
+This line add in GitHub
